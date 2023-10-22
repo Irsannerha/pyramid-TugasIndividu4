@@ -10,4 +10,5 @@ NIM : 120140043
 Clone repository ini ke komputer Anda:
 
 ```bash
-git clone <repository URL>
+git clone git@github.com:Irsannerha/pyramid-TugasIndividu4.git
+```
